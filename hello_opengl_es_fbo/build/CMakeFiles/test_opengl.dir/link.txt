@@ -1,0 +1,1 @@
+/home/huangshiping/hsp/workspace/sdp/SDP/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-g++ --sysroot=/home/huangshiping/hsp/workspace/sdp/SDP/qnx710/target/qnx7/aarch64le     CMakeFiles/test_opengl.dir/main.cpp.o CMakeFiles/test_opengl.dir/FBO.cpp.o CMakeFiles/test_opengl.dir/AFileUtil.cpp.o  -o test_opengl -lscreen -lEGL -lGLESv2 
